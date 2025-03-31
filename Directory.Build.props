@@ -1,0 +1,7 @@
+<Project>
+  <PropertyGroup>
+    <ContinuousIntegrationBuild>true</ContinuousIntegrationBuild>
+    <Deterministic>true</Deterministic>
+    <IncludeGitCommitIdInInformationalVersion>true</IncludeGitCommitIdInInformationalVersion>
+  </PropertyGroup>
+</Project>
