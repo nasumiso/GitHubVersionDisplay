@@ -1,0 +1,2 @@
+# GitHubVersionDisplay
+C#プロジェクトのバージョン情報を表示するプログラム
